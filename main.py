@@ -2,7 +2,7 @@ import pygame as pg
 import sys
 from random import randint
 
-tamanho_da_janela = 900
+tamanho_da_janela = 465
 tamanho_da_celula = tamanho_da_janela // 3
 inf = float('inf')
 vec2 = pg.math.Vector2
